@@ -1,4 +1,4 @@
-# 📝 Simple To-Do List App
+# 📝 Simple To-Do List
 
 A lightweight and intuitive **To-Do List application** built using **React**, **TypeScript**, and **Tailwind CSS**. This app helps users manage daily tasks efficiently with essential features like adding, selecting, and deleting tasks.
 
